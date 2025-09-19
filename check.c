@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 int main(){
-  printf("Commit check1");
+  printf("Commit Check");
 }
